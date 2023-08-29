@@ -1,0 +1,11 @@
+29,30,31
+
+31 - reg. (model idea,collected data,explain working) - pictorial representation
+1 - dept. rev. (collecting inputs)
+2 - indus. mentor review (collecting inputs)
+14 - internal hackathon (Complete 3D model with updated inputs)
+
+ToDo :
+Suspension or Hydralics ?
+Contraction of Suspension ?
+What technology to be used ?
