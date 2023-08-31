@@ -1,0 +1,15 @@
+Socket,Pylon,Ankle
+
+Ankle :
+modification for comfortable walking (extra)
+
+Main work :
+1) 3D Design
+	Karthick na, German , Mech - get suggestions
+2) German - Asks how to implement using microcontroller
+3) Prototype :
+     PVC - Pylon Rod
+     Cardbord - Ankle
+     Using Hinge Mechanism
+     Servo motor
+4) Testing
